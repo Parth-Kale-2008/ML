@@ -1,0 +1,16 @@
+Employee_ID,Name,Department,Join_Date,Salary,City,Sales
+101,Parth Kale,IT,2023-01-15,55000,Mumbai,120000
+102,Aisha Khan,HR,15/02/2023,48000,Pune,85000
+103,Rahul Sharma,Sales,2023/03/10,62000,Nashik,150000
+104,Neha Patel,IT,,57000,Mumbai,130000
+105,Vikram Singh,Sales,2023-05-20,,Delhi,175000
+106,Priya Joshi,HR,20-06-2023,49000,pune,90000
+107,Arjun Mehta,IT,2023-07-05,56000,MUMBAI,125000
+108,Sneha Gupta,Sales,2023-08-11,61000,Nagpur,160000
+109,Rohit Verma,Finance,2023-09-01,70000,Bangalore,110000
+110,Kavya Nair,Finance,2023-10-15,72000,Bengaluru,115000
+111,Parth Kale,IT,2023-01-15,55000,Mumbai,120000
+112,Anjali Desai,Sales,2023-11-20,65000,,180000
+113,Karan Shah,HR,2023-12-05,47000,Pune,87000
+114,Meera Iyer,Finance,2024-01-10,1500000,Mumbai,100000
+115,Amit Kumar,Sales,2024-02-15,63000,Nashik,abc
